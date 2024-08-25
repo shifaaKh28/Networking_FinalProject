@@ -1,6 +1,6 @@
 # Project Documentation: Building a Simple QUIC Protocol in Python
 
-## Introduction
+## Introduction:
 In this project, we implemented a simplified version of the QUIC (Quick UDP Internet Connection) protocol in Python. QUIC is an emerging transport protocol developed by Google that aims to improve web performance by reducing latency and improving security. Our project focuses on building a basic QUIC client and server to demonstrate key features of the protocol.
 
 ## Overview
